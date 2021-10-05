@@ -21,8 +21,8 @@ animation-iteration-count: infinite;
 }
 
 @keyframes example {
-from {box-shadow: 140px 1px 38px grey;}
-to {box-shadow: 140px 1px 38px white;}
+from {box-shadow: 1px 1px 38px grey;}
+to {box-shadow: 1px 1px 38px white;}
 }
 
 
